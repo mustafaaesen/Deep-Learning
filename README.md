@@ -3,7 +3,7 @@
 This repository contains a series of beginner-to-intermediate level deep learning projects implemented with TensorFlow and Keras. The goal of this collection is to provide hands-on experience in building, training, and evaluating artificial neural networks (ANNs) for real-world problems.
 
 ## 📁 Folder Structure
-
+```
 Deep Learning/
 ├── Project 1: MNIST Digit Recognition
 │ ├── Deep_Learning_Intro&Project_1_MNIST_.ipynb
@@ -21,7 +21,7 @@ Deep Learning/
 │ ├── Social_Network_Ads.csv
 └── Trained Models
 └── egitilmis_modeller.zip
-
+```
 
 ---
 
